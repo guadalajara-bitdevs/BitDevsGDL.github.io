@@ -29,7 +29,7 @@ Memorizar una frase de contraseña y convertirla en una clave privada mediante u
 ## **Preguntas para Reflexión**
 
 1. ¿Por qué creen que aseguran que fue una Billetera Mental?  
-2. ¿Cómo podría mejorar la manera en que las propuestas son sugeridas y evaluadas por todos los usuarios?  
+2. ¿Mejores prácticas de generar llaves privadas?  
 
 ---
 
