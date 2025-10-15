@@ -17,11 +17,11 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3114393
 
 ## Cosas que realmente discutiremos
 
--TBD
--TBD
--TBD
--TBD
--TBD
+- [Square lleva Bitcoin a la vida cotidiana con la primera solución integrada de pagos y cartera para negocios locales](https://squareup.com/us/en/press/square-bitcoin)
+- [Los creadores de Taproot no previeron su “valor para trollear” — dice un desarrollador de Bitcoin](https://cointelegraph.com/news/taproot-devs-overlooked-trolling-value-added-bitcoin)
+- [Limitando OP_RETURN a nivel de consenso](https://delvingbitcoin.org/t/limiting-op-return-at-consensus-level/2013)
+- [Script independiente para bloquear conexiones a nodos Knots que puede ejecutarse fácilmente en cualquier nodo Bitcoin Core](https://x.com/noosphere888x2/status/1966616678248157408?s=46&t=tqaWYbp-p3qX0bYI86rbfQ)
+- [Advertencia: tu dirección Lightning de Wallet of Satoshi expone todas tus transacciones en el explorador de Spark](https://x.com/evankaloudis/status/1975997003680108908)
 
 ## Temas
 
