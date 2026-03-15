@@ -54,7 +54,6 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3136655
 - [Agentes de IA están haciendo spam en Bitcoin](https://www.criptonoticias.com/tecnologia/agentes-ia-spam-bitcoin/)
 - [Bitcoin Core 31.0 incorpora Cluster Mempool para la gestión de transacciones](https://www.criptonoticias.com/tecnologia/clusters-mempool-bitcoin-core-31/)
 - [Rechazan recuperar 80.000 bitcoins durmientes robados a MtGox](https://www.criptonoticias.com/tecnologia/rechazan-recuperar-80-000-btc-robados-mtgox/)
-- [Cardano prueba intercambios directos con Bitcoin y Ethereum](https://www.criptonoticias.com/tecnologia/cardano-valida-transacciones-de-bitcoin-y-ethereum/)
 - [Transmitir transacciones propias solo a través de conexiones Tor o I2P de corta duración](https://github.com/bitcoin/bitcoin/pull/29415)
 - [txgraph: orden óptimo y determinístico de transacciones](https://github.com/bitcoin/bitcoin/pull/34257)
 - [rpc,net: Añadir RPCs de transmisión privada](https://github.com/bitcoin/bitcoin/pull/34329)
