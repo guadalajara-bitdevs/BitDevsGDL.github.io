@@ -20,7 +20,7 @@ meetup: "https://www.meetup.com/guadalajara-bitcoin-and-lightning/events/3155193
 - [Bitcoin entra en los chats: nueva app combina mensajería privada y pagos Lightning](https://www.criptonoticias.com/tecnologia/bitcoin-chats-app-mensajeria-privada-pagos-lightning/)
 - [Ejecutar de forma privada heurísticas de privacidad sobre tus propios UTXO sin necesidad de operar un nodo](https://delvingbitcoin.org/t/privately-running-wallet-privacy-heuristics-on-your-own-utxos-without-needing-to-run-your-own-node/2625)
 - [Splicing de salida hacia la apertura de un canal](https://x.com/dusty_daemon/status/2064435141682876606)
-- [BIP110 support is accelerating going into the last 2-week period before the mandatory signaling deadline]
+- [El apoyo a BIP110 se está acelerando al entrar en el período de las últimas 2 semanas antes de la fecha límite de señalización obligatoria]
 
 ## Temas
 
